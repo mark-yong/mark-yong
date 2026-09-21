@@ -33,7 +33,7 @@ turn into irreproducible results.
 ## Benchmarking
 
 Throughput numbers with configs launch flags, model. quantisation details, and benchmark
-commands next to results, pin digests where practical, and keep the
+commands next to results, pin digests where practical, keeping
 failed runs in the write-up.
 
 ## Elsewhere
